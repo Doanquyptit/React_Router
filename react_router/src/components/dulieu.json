@@ -1,0 +1,44 @@
+[{
+    "id":1,
+    "tieuDe": "Điệp vụ biển đỏ",
+    "trichDan": "Phát hành tại Việt Nam",
+    "noiDung": "Nói về Điệp vụ biển đỏ",
+    "anh": "https://znews-photo.zadn.vn/w660/Uploaded/xbhunku/2018_03_26/operationredseamoviereviewYiZhangHaiQing.jpg"
+},
+
+{
+    "id":2,
+    "tieuDe": "Birds of Prey",
+    "trichDan": "Cuộc Lột Xác Huy Hoàng Của Harley Quinn",
+    "noiDung": "Birds of Prey là bộ phim thứ 8 trong Vũ trụ điện ảnh DC được đạo diễn bởi Cathy Yan",
+    "anh": "https://static.mservice.io/blogscontents/momo-upload-api-200213103636-637171869969059446.jpg"
+},
+{
+    "id":3,
+    "tieuDe": "The New Mutants",
+    "trichDan": "Dị Nhân Thế Hệ Mới",
+    "noiDung": "Dị Nhân Thế Hệ Mới là câu chuyện về năm dị nhân trẻ khám phá ra sức mạnh dị phàm của họ",
+    "anh": "https://static.mservice.io/blogscontents/momo-upload-api-200213105218-637171879380582881.jpg"
+},
+{
+    "id":4,
+    "tieuDe": "Black Widow",
+    "trichDan": "Góa Phụ Đen",
+    "noiDung": "Một trong những lí do khiến Black Widow được đông đảo khán giả mong chờ chính là vì đây là bộ phim đầu tiên mở màn cho giai đoạn thứ 4 của Vũ trụ điện ảnh Marvel",
+    "anh": "https://static.mservice.io/blogscontents/momo-upload-api-200213105304-637171879841819770.jpg"
+},
+{
+    "id":5,
+    "tieuDe": "Wonder Woman 1984",
+    "trichDan": "Nữ Thần Chiến Binh 1984",
+    "noiDung": "Tiếp tục lại là một bộ phim về nữ siêu anh hùng nữa, nhưng lần này đến từ hãng DC với nhân vật kinh điển Wonder Woman",
+    "anh": "https://static.mservice.io/blogscontents/momo-upload-api-200213141603-637172001639585590.jpg"
+},
+{
+    "id":6,
+    "tieuDe": "Venom 2",
+    "trichDan": "Dị nhân Venom2",
+    "noiDung": "Trong phần 2 này, Tom Hardy vẫn thủ vai chính và Woody Harrelson tham gia",
+    "anh": "https://static.mservice.io/blogscontents/momo-upload-api-200213105553-637171881536800542.jpg"
+}
+]
